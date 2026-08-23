@@ -45,7 +45,7 @@
 | `ATM` | Core Class (Singleton) | Orchestrates state machine, coordinates all components |
 
 ### 3. Designing Classes and Relationships
-*  For each class, we'll define what data it holds (attributes) and what it can do (methods).
+*  For each class, we'll define what data it holds (attributes) / reference and what it can do (methods).
 * We'll work bottom-up: simple types first, then data containers, then interfaces, then the classes with real logic.
 
 ### Enums & Denominations
